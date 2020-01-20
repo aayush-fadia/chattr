@@ -13,9 +13,14 @@
 
 
 The bad spelling is because all repeated letters are removed, because words like good are often written as goood, okay becomes okayyyyy, and so on. The repeated letters are removed so all of these variations match a single token in our corpus.
+
 This is a great tool for reflection. In essence, it captures your personality. The generated texts reveal a lot about who you are.
+
 This is a DEEP neural network.
+
 geddit?
+
 see what I did there?
+
 okbye
 
